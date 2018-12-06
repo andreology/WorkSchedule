@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_manager_layout" type="id"/>
+    <item name="fab_add_member" type="id"/>
+    <item name="fab_custom_color" type="id"/>
+    <item name="fab_requests" type="id"/>
+
+    <item name="fab_my_availability" type="id"/>
+    <item name="fab_requests_member" type="id"/>
+
+</resources>

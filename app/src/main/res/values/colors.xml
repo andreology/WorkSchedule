@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9696</color>
+    <color name="colorPrimaryDark">#b25256</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorMainButton">#ff969b</color>
+    <color name="colorFABADD">#89BBCC</color>
+    <color name="colorFABASSIGN">#FF7BEA</color>
+    <color name="colorFABREQUESTS">#4CFF67</color>
+    <color name="colorFABRED">#FFB46A</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186540402634",
+    "firebase_url": "https://schdular-8432a.firebaseio.com",
+    "project_id": "schdular-8432a",
+    "storage_bucket": "schdular-8432a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186540402634:android:95d003e37d04b7d6",
+        "android_client_info": {
+          "package_name": "com.schedulesmadeeasy.schedular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186540402634-f37s0ic705mcdlnn2gb1lqvm9149rvg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schedulesmadeeasy.schedular",
+            "certificate_hash": "f6034d4c6d20ca5d15985625de41f6c24dd0509c"
+          }
+        },
+        {
+          "client_id": "186540402634-vmrj2hbms1rg4rplocnhb4id2oucjt2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk_p_R5bp7dovERpt_7JZvcwuGnnzZq5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186540402634-vmrj2hbms1rg4rplocnhb4id2oucjt2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
